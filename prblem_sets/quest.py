@@ -28,3 +28,6 @@ if sum > 15:
 	luck = 5
 
 	print('strength: ' + str(strength) + ' ,health ' + str(health) + ' ,luck: ' + str(health))
+
+
+print('Binky Bop, you have come to a fork in the road. Do you want to go right or left?')
