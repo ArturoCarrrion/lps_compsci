@@ -31,3 +31,5 @@ if sum > 15:
 
 
 print('Binky Bop, you have come to a fork in the road. Do you want to go right or left?')
+print ('Enter right or left')
+direction = raw_input()
