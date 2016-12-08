@@ -2,9 +2,8 @@
 print('welcome to pumapix')
 print('enter 5 of your favorite tv. shows:')
 # In this block of code sets a veriable tv. to 0 and a variable called my_list set to a list that the user will create.Also it prints out a stment to let the user know they should enter the name of the show.The line below that lets the veriable tv_shows to equal what the user inputs.
- 
-tv = 0
 my_list = []
+tv = 0
 # then the veriable TV add one vry time the loop runs. Also it runs this loop 5 times because onece the number of tv is higher than 5 it stops runing. 
 #then the last line lets the verible tv_shows get put in in to the list from the input that the user put in.  
 while tv < 5:
